@@ -11,7 +11,7 @@ const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
   title: "NextChat公益版",
-  description: "多种AI大模型免费使用，无需注册即用即答",
+  description: "多种AI大模型免费使用，没有广告",
   appleWebApp: {
     title: "NextChat公益版",
     statusBarStyle: "default",
