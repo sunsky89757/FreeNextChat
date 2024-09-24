@@ -484,7 +484,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "欢迎使用NextChat公益版，[[聚合AI官网]](https://www.gptacg.com)|[[聚合API Key自助购买]](https://one.mmwcy.cn)",
+    BotHello: "欢迎使用NextChat公益版，[[聚合AI官网]](https://www.gptacg.com)|[[QQ交流群]](https://www.giftedpm.com/wp-content/uploads/2024/09/qrcode_1727187963481.png)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
