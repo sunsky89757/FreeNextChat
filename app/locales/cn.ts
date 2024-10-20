@@ -8,7 +8,7 @@ const cn = {
   Error: {
     Unauthorized: isApp
       ? "检测到无效 API Key，请前往[设置](/#/settings)页检查 API Key 是否配置正确。"
-      : "密码不正确或为空。1.关注公众号[产品试金石]免费领取密码；2.前往[登录](/#/auth)页输入密码后使用。",
+      : "密码不正确或为空。请前往官网使用新入口[[聚合AI官网]](https://juheai.qyiwl.cn/)",
   },
   Auth: {
     Title: "需要密码",
